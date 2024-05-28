@@ -1,14 +1,14 @@
-# Hi there, I'm [Sharon Cherotich Birgen] 👋
+# Hi there, I'm Sharon Cherotich Birgen 👋
 
 
 ## About Me
-I am a [Quality Assurance Engineer] with a passion for [code and its impact]. Currently, I am working on [Making my own Website]. 
+I am a Quality Assurance Engineer with a passion for code and its impact. Currently, I am working on Making my own Website. 
 
-- 🔭 I’m currently working on [Birgen's Website]
-- 🌱 I’m currently learning [React]
-- 👯 I’m looking to collaborate on [React Projects]
-- 💬 Ask me about [Film, Poker and Games]
-- 📫 How to reach me: [sharoncherotich112@gmail.com]
+- 🔭 I’m currently working on Birgen's Website
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on React Projects
+- 💬 Ask me about Film, Poker and Games
+- 📫 How to reach me: sharoncherotich112@gmail.com
 
 ## Skills
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -19,15 +19,9 @@ I am a [Quality Assurance Engineer] with a passion for [code and its impact]. Cu
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 
-## Projects
-### [Project Name](https://github.com/your-username/project-name)
-Description of the project, what it does, and any key technologies used.
-
-### [Project Name](https://github.com/your-username/project-name)
-Description of the project, what it does, and any key technologies used.
 
 ## Contact Me
-[![LinkedIn](https://www.linkedin.com/in/sharon-birgen-0341732ab/)
-[![Twitter](https://x.com/Sharonbirgen2)
+[!(https://www.linkedin.com/in/sharon-birgen-0341732ab/)
+[!(https://x.com/Sharonbirgen2)
 
 <!-- Add any other contact methods -->
