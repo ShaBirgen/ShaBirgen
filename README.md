@@ -21,7 +21,7 @@ I am a Quality Assurance Engineer with a passion for code and its impact. Curren
 
 
 ## Contact Me
-[!(https://www.linkedin.com/in/sharon-birgen-0341732ab/)
-[!(https://x.com/Sharonbirgen2)
+[![LinkedIn](https://www.linkedin.com/in/sharon-birgen-0341732ab/)
+[![Twitter](https://x.com/Sharonbirgen2)
 
 <!-- Add any other contact methods -->
